@@ -1,4 +1,4 @@
-To-Do Work List (MERN Stack)
+**To-Do Work List (MERN Stack)**
 This is a dynamic To-Do work list project built using the MERN stack (MongoDB, Express.js, React, and Node.js). It allows users to efficiently manage their tasks with the following features:
 
 ✅ Add new tasks
